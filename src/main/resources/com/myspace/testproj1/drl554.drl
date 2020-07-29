@@ -1,0 +1,6 @@
+package com.myspace.testproj1;
+
+rule "hello554"
+when
+then
+end

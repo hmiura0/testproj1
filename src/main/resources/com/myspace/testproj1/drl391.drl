@@ -1,0 +1,6 @@
+package com.myspace.testproj1;
+
+rule "hello391"
+when
+then
+end
